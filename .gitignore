@@ -24,3 +24,8 @@ xcode/
 build/
 
 *.pro.user
+*.obj
+*.ply
+*.so
+*egg*
+*.mtl
